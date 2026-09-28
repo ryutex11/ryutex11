@@ -1,4 +1,4 @@
-# Hi, I'm Ryu 👋
+# Hi, I'm Ryu
 
 First-year Computer Science student exploring **cybersecurity, systems, networking and cloud**.
 
